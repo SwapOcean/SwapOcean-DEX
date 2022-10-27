@@ -2,12 +2,12 @@
 Create Your Own DEX On Smart Chain
 We offers a fully operational decenteralized exchange on binance smart chain powered by Swap Ocean Ecosystem.
 
-#How to install
+# How to install
 Replace the default logo by your own logo and upload the files to your server, and your DEX will be online within minutes.
 
 Learn How to Install: https://www.youtube.com/watch?v=GgETOCjefbI
 
-#Recommended Hosting
+# Recommended Hosting
 Our Dex can run on any hosting service but NodeJs must be installed, we recommend Hostinger
 
 Get Hosting : https://www.dpbolvw.net/click-100161995-13606730?sid=dex
