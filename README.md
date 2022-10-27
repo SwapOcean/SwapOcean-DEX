@@ -2,6 +2,8 @@
 Create Your Own DEX On Smart Chain
 We offers a fully operational decenteralized exchange on binance smart chain powered by Swap Ocean Ecosystem.
 
+Visit our website : https://swapocean.com/
+
 # How to install
 Replace the default logo by your own logo and upload the files to your server, and your DEX will be online within minutes.
 
