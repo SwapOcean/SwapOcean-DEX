@@ -12,4 +12,4 @@ Learn How to Install: https://www.youtube.com/watch?v=GgETOCjefbI
 # Recommended Hosting
 Our Dex can run on any hosting service but NodeJs must be installed, we recommend Hostinger
 
-Get Hosting : https://www.dpbolvw.net/click-100161995-13606730?sid=dex
+Get Hosting : https://bit.ly/3RF5GhE
